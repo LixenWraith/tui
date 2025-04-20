@@ -4,3 +4,4 @@ data
 dev
 logs
 cmake-build-*/
+*.log
